@@ -1,2 +1,2 @@
 # UVa-problems
-Solutions of Questions from UVa online judge that I like to solve when bored
+Solutions of Questions from UVa online judge and some from codechef that I like to solve when bored...
